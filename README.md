@@ -314,8 +314,7 @@ Add screenshots here after uploading them to the `assets` folder.
 Example
 
 ```
-
-<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/24a4acb9-f44f-4510-985d-3386804a003d" />
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/6cdfc5e5-ae57-42ab-9882-6fc5e0bad983" />
 
 ```
 
