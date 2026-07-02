@@ -314,11 +314,9 @@ Add screenshots here after uploading them to the `assets` folder.
 Example
 
 ```
-assets/home.png
 
-assets/upload.png
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/24a4acb9-f44f-4510-985d-3386804a003d" />
 
-assets/answer.png
 ```
 
 ---
