@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Logs
+data/query_log.jsonl
+
+# OS Files
+.DS_Store
+Thumbs.db
